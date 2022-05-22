@@ -1,0 +1,17 @@
+
+.title {
+  cursor: pointer;
+  padding: 18px;
+  width: 300px;
+  margin: 2px;
+}
+
+.content {
+  width: 300px;
+  display: none;
+  background-color: #f1f1f1;
+}
+
+button:hover {
+  background-color: lightgrey;
+}
